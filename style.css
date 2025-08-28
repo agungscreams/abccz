@@ -277,6 +277,10 @@ footer {
     background: linear-gradient(135deg, #212529, #343a40) !important;
 }
 
+footer .text-muted {
+    color: #adb5bd !important;
+}
+
 footer a {
     transition: var(--transition);
 }
