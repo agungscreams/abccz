@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://techfixpro.com/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all other content
+Allow: /index.html
+Allow: /style.css
+Allow: /script.js
+Allow: /manifest.json
